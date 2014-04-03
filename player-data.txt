@@ -1,0 +1,75 @@
+4144, MG Bevan, Australia
+4578, MJ Clarke, Australia
+5390, AC Gilchrist, Australia
+5392, JN Gillespie, Australia
+5597, IJ Harvey, Australia
+5616, ML Hayden, Australia
+6278, B Lee, Australia
+6285, DS Lehmann, Australia
+6513, DR Martyn, Australia
+6565, GD McGrath, Australia
+7133, RT Ponting, Australia
+7702, A Symonds, Australia
+8189, ME Waugh, Australia
+8192, SR Waugh, Australia
+10772, PD Collingwood, England
+12856, A Flintoff, England
+14325, N Hussain, England
+15913, NV Knight, England
+21585, ME Trescothick, England
+22182, MP Vaughan, England
+26184, AB Agarkar, India
+28114, R Dravid, India
+28779, SC Ganguly, India
+29264, Harbhajan Singh, India
+29990, M Kaif, India
+30102, Z Khan, India
+30176, A Kumble, India
+30750, VVS Laxman, India
+31034, D Mongia, India
+35263, V Sehwag, India
+35320, SR Tendulkar, India
+36084, Yuvraj Singh, India
+36185, NJ Astle, New Zealand
+36597, CL Cairns, New Zealand
+37000, SP Fleming, New Zealand
+37232, CZ Harris, New Zealand
+37696, HJH Marshall, New Zealand
+37712, CD McMillan, New Zealand
+37737, BB McCullum, New Zealand
+38062, JDP Oram, New Zealand
+38393, MS Sinclair, New Zealand
+38407, SB Styris, New Zealand
+38620, DR Tuffey, New Zealand
+38710, DL Vettori, New Zealand
+38714, L Vincent, New Zealand
+39024, Azhar Mahmood, Pakistan
+39836, Abdul Razzaq, Pakistan
+40563, Imran Nazir, Pakistan
+40570, Inzamam-ul-Haq, Pakistan
+41306, Moin Khan, Pakistan
+42423, Rashid Latif, Pakistan
+42605, Saeed Anwar, Pakistan
+42655, Shoaib Akhtar, Pakistan
+43543, Waqar Younis, Pakistan
+43547, Wasim Akram, Pakistan
+43656, Yasir Hameed, Pakistan
+44091, N Boje, South Africa
+45224, HH Gibbs, South Africa
+45789, JH Kallis, South Africa
+46208, ND McKenzie, South Africa
+46592, M Ntini, South Africa
+48124, MS Atapattu, Sri Lanka
+48369, UDU Chandana, Sri Lanka
+48462, PA de Silva, Sri Lanka
+48472, TM Dilshan, Sri Lanka
+48835, CRD Fernando, Sri Lanka
+49010, DA Gunawardene, Sri Lanka
+49209, ST Jayasuriya, Sri Lanka
+49361, RS Kaluwitharana, Sri Lanka
+49636, M Muralitharan, Sri Lanka
+51050, DNT Zoysa, Sri Lanka
+52057, WW Hinds, West Indies
+52199, RD Jacobs, West Indies
+52681, RL Powell, West Indies
+

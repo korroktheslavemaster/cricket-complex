@@ -1,0 +1,55 @@
++------------------+--------------+------+-----+---------+-------+
+| Field            | Type         | Null | Key | Default | Extra |
++------------------+--------------+------+-----+---------+-------+
+| ODI_ID           | int(10)      | YES  | UNI | NULL    |       |
+| MATCH_ID         | int(10)      | YES  |     | NULL    |       |
+| SERIES_ID        | int(10)      | YES  |     | NULL    |       |
+| SERIES_NAME      | varchar(100) | YES  |     | NULL    |       |
+| GROUND_PLAYED_ON | varchar(100) | YES  |     | NULL    |       |
+| GROUND_ID        | int(10)      | YES  |     | NULL    |       |
+| DATE_OF_PLAY     | date         | YES  |     | NULL    |       |
+| OVERS            | int(5)       | YES  |     | NULL    |       |
+| TEAM_PLAYED1     | varchar(100) | YES  |     | NULL    |       |
+| TEAM_PLAYED2     | varchar(100) | YES  |     | NULL    |       |
+| TEAM1_SCORE      | int(5)       | YES  |     | NULL    |       |
+| TEAM2_SCORE      | int(5)       | YES  |     | NULL    |       |
+| TEAM1_OVERS      | varchar(100) | YES  |     | NULL    |       |
+| TEAM2_OVERS      | varchar(100) | YES  |     | NULL    |       |
+| MOM              | varchar(100) | YES  |     | NULL    |       |
+| TOSS             | varchar(100) | YES  |     | NULL    |       |
+| RESULT           | varchar(100) | YES  |     | NULL    |       |
++------------------+--------------+------+-----+---------+-------+
+
++-------------------+---------------+------+-----+---------+-------+
+| Field             | Type          | Null | Key | Default | Extra |
++-------------------+---------------+------+-----+---------+-------+
+| ID                | int(10)       | YES  | UNI | NULL    |       |
+| NAME              | varchar(100)  | YES  |     | NULL    |       |
+| FULL_NAME         | varchar(100)  | YES  |     | NULL    |       |
+| BIRTH             | varchar(200)  | YES  |     | NULL    |       |
+| MAJOR_TEAMS       | varchar(1000) | YES  |     | NULL    |       |
+| PLAYING_ROLE      | varchar(100)  | YES  |     | NULL    |       |
+| BOWLING_STYLE     | varchar(100)  | YES  |     | NULL    |       |
+| BATTING_STYLE     | varchar(100)  | YES  |     | NULL    |       |
+| FIELDING_POSITION | varchar(100)  | YES  |     | NULL    |       |
+| TEAM_ID           | int(10)       | YES  |     | NULL    |       |
+| TEAM_NAME         | varchar(100)  | YES  |     | NULL    |       |
++-------------------+---------------+------+-----+---------+-------+
+
++----------------------+--------------+------+-----+---------+-------+
+| Field                | Type         | Null | Key | Default | Extra |
++----------------------+--------------+------+-----+---------+-------+
+| PLAYER_ID            | int(10)      | YES  | MUL | NULL    |       |
+| MATCH_ID             | int(10)      | YES  |     | NULL    |       |
+| BATTING_POSITION     | int(5)       | YES  |     | NULL    |       |
+| DISMISSAL_TYPE       | varchar(100) | YES  |     | NULL    |       |
+| DISMISSAL_BY_FIELDER | varchar(100) | YES  |     | NULL    |       |
+| DISMISSAL_BY_BOWLER  | varchar(100) | YES  |     | NULL    |       |
+| RUNS                 | varchar(10)  | YES  |     | NULL    |       |
+| MINUTES_STAYED       | int(5)       | YES  |     | NULL    |       |
+| BALLS_FACED          | int(5)       | YES  |     | NULL    |       |
+| 4S                   | int(5)       | YES  |     | NULL    |       |
+| 6S                   | int(5)       | YES  |     | NULL    |       |
+| SR                   | double(10,2) | YES  |     | NULL    |       |
+| IMPACT_ON_MATCH      | varchar(10)  | YES  |     | NULL    |       |
++----------------------+--------------+------+-----+---------+-------+
